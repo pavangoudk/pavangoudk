@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm k pavan kumar</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate DevOps engineer </h3>
 
 - 🔭 I’m currently working on **Azure DevOps**
 
